@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105269625707",
+    "project_id": "nodejs-app-12910",
+    "storage_bucket": "nodejs-app-12910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105269625707:android:ddfff0c9b4fe67ace7822e",
+        "android_client_info": {
+          "package_name": "app.filipe.contador_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105269625707-udtko8occvncon9ropqdfitlc0bgc60f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI5ihyG9nWVZefrUAOWwPLSZAIdHx6-sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105269625707-udtko8occvncon9ropqdfitlc0bgc60f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
