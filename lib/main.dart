@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     DatabaseReference _testRef =
-        FirebaseDatabase.instance.reference().child("Total");
+        FirebaseDatabase.instance.reference().child("total");
     _testRef.set(_counter + 1);
 
     setState(() {
